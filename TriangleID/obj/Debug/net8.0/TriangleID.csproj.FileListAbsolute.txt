@@ -1,0 +1,15 @@
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\bin\Debug\net8.0\TriangleID.exe
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\bin\Debug\net8.0\TriangleID.deps.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\bin\Debug\net8.0\TriangleID.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\bin\Debug\net8.0\TriangleID.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\bin\Debug\net8.0\TriangleID.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.sourcelink.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\refint\TriangleID.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\TriangleID.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\TriangleID\obj\Debug\net8.0\ref\TriangleID.dll
