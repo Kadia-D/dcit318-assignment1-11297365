@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class Program
 {
@@ -14,6 +14,7 @@ class Program
             }
 
             string letterGrade;
+
             if (grade >= 90)
                 letterGrade = "A";
             else if (grade >= 80)
@@ -25,7 +26,7 @@ class Program
             else
                 letterGrade = "F";
 
-            Console.WriteLine($"Your Letter Grade is : {letterGrade}");
+            Console.WriteLine($"Letter Grade: {letterGrade}");
         }
         else
         {

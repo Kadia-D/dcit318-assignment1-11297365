@@ -1,0 +1,15 @@
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\bin\Debug\net8.0\GradeCalculatorApp.exe
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\bin\Debug\net8.0\GradeCalculatorApp.deps.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\bin\Debug\net8.0\GradeCalculatorApp.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\bin\Debug\net8.0\GradeCalculatorApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\bin\Debug\net8.0\GradeCalculatorApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.sourcelink.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\refint\GradeCalculatorApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\GradeCalculatorApp.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment1-11297365\GradeCalculatorApp\obj\Debug\net8.0\ref\GradeCalculatorApp.dll
